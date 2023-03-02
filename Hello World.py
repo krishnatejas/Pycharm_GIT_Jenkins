@@ -3,6 +3,7 @@ def add_num(a, b):
     return a + b
 
 def sub_(a,b):
+    print("function 2 adding")
     return a - b
 
 if __name__ == '__main__':
