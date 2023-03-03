@@ -1,4 +1,5 @@
 import os
+import time
 
 
 def check_file():
@@ -9,4 +10,5 @@ def check_file():
 
 
 if __name__ == "__main__":
+    time.sleep(5)
     check_file()
